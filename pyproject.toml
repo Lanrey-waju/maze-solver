@@ -1,0 +1,9 @@
+[tool.pylint]
+disable = [
+  "C0103",
+  "C0114",
+  "W0621",
+  "C0115",
+]
+
+good-names = ["i", "j", "k", "ex", "Run", "_", "x", "y", "z", "e", "f", "fp"]
